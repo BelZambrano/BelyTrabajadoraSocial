@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Belén Zambrano - Trabajadora Social</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background-color: #4CAF50;
+            color: white;
+            padding: 1rem;
+            text-align: center;
+        }
+        .container {
+            padding: 2rem;
+            max-width: 800px;
+            margin: auto;
+            background-color: white;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2 {
+            color: #4CAF50;
+        }
+        .section {
+            margin-bottom: 2rem;
+        }
+        footer {
+            text-align: center;
+            padding: 1rem;
+            background-color: #4CAF50;
+            color: white;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+        .contact-info a {
+            color: #4CAF50;
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Belén Stephanie Zambrano Aguayo</h1>
+        <p>Trabajadora Social | Hualpén, Chile</p>
+    </header>
+    <div class="container">
+        <div class="section">
+            <h2>Sobre Mí</h2>
+            <p>¡Hola! Soy Belén Zambrano, una apasionada trabajadora social con una sólida formación en trabajo administrativo y atención al público. Desde pequeña, he tenido un fuerte deseo de ayudar a los demás y hacer una diferencia positiva en la vida de las personas.</p>
+            <p>Mi trayectoria profesional incluye prácticas en el área de trabajo social y experiencia en roles administrativos y de atención al público. Actualmente, estoy especializándome en infancia, realizando un diplomado en enfoque de protección y vulneración de los derechos del niño.</p>
+        </div>
+        <div class="section">
+            <h2>Habilidades</h2>
+            <ul>
+                <li>Trabajo en terreno y administrativo</li>
+                <li>Adaptabilidad y empatía</li>
+                <li>Habilidades computacionales avanzadas</li>
+                <li>Redacción de informes sociales y periciales</li>
+            </ul>
+        </div>
+        <div class="section">
+            <h2>Contacto</h2>
+            <p>Estoy abierta a nuevas oportunidades laborales y colaboraciones. ¡Conectemos!</p>
+            <div class="contact-info">
+                <p>Email: <a href="mailto:belenzambrano@example.com">belenzambrano@example.com</a></p>
+                <p>LinkedIn: <a href="https://www.linkedin.com/in/belenzambrano" target="_blank">linkedin.com/in/belenzambrano</a></p>
+            </div>
+        </div>
+    </div>
+    <footer>
+        <p>&copy; 2024 Belén Zambrano</p>
+    </footer>
+</body>
+</html>
